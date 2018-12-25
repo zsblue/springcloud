@@ -1,0 +1,24 @@
+*.class
+*/target/*
+# Package Files #
+#*.jar
+*.war
+*.ear
+*.iml
+/logs/
+/**/logs/
+./**/log.txt
+log.txt
+
+.idea/
+.project
+.settings/
+.classpath
+/target/
+# mac
+.DS_Store
+/**/down/
+/down/
+*.log
+/bin/
+/**/bin/
